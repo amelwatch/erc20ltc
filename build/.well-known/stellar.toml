@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBP22WFZ2SPJOTGJIN3D4SIEIHWCB26PMR2UWW7GLAFTMDYESH76VG45"
+"GDJPAMP25E57LI55K6VPPY7C7HV5TWGAJZOVNPKFPNSXUVATMFYWLVNP"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Nexus"
-ORG_URL="https://nexus.io/"
-ORG_DESCRIPTION="Nexus is a community-driven project with the common vision of a world inspired by innovation and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Our technology is designed to simplify lives, empower communities, and streamline business, while embodying the founding principles of Satoshi Nakamoto, the creator of Bitcoin."
-ORG_TWITTER="@NexusOfficial"
-ORG_LOGO="https://i.ibb.co/gy3QHfq/nexus.jpg"
-ORG_OFFICIAL_EMAIL="nexuscommunity@gmail.com"
+ORG_NAME="ERC20 Litecoin"
+ORG_URL="https://litecoin.com/en/"
+ORG_DESCRIPTION="One of the most significant Ethereum tokens is known as ERC20LTC. ERC20 Litecoin has emerged as the technical standard; it is used for all smart contracts on the Ethereum blockchain for token implementation and provides a list of rules that all Ethereum-based tokens must follow."
+ORG_TWITTER="@litecoin"
+ORG_LOGO="https://i.ibb.co/4jDgT54/litecoin-ltc-logo.webp"
+ORG_OFFICIAL_EMAIL="litecoinerc20@gmail.com"
 
 
 [[CURRENCIES]]
 code="NXS"
-issuer="GBP22WFZ2SPJOTGJIN3D4SIEIHWCB26PMR2UWW7GLAFTMDYESH76VG45"
+issuer="GDJPAMP25E57LI55K6VPPY7C7HV5TWGAJZOVNPKFPNSXUVATMFYWLVNP"
 anchor_asset="false"
 name="Nexus"
-desc="Nexus is a community-driven project with the common vision of a world inspired by innovation and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Our technology is designed to simplify lives, empower communities, and streamline business, while embodying the founding principles of Satoshi Nakamoto, the creator of Bitcoin."
-conditions=""
-image="https://i.ibb.co/gy3QHfq/nexus.jpg"
+desc="One of the most significant Ethereum tokens is known as ERC20LTC. ERC20 Litecoin has emerged as the technical standard; it is used for all smart contracts on the Ethereum blockchain for token implementation and provides a list of rules that all Ethereum-based tokens must follow."
+conditions="There are only 1,000,000 ERC20LTC in existence and always will be. This ensures consistent supply and no additional ERC20LTC can be created"
+image="https://i.ibb.co/4jDgT54/litecoin-ltc-logo.webp"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#NXS was issued using the open and inclusive Stellar blockchain network.
+
